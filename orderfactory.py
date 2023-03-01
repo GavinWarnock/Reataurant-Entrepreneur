@@ -6,8 +6,8 @@ class Orderfactory:
     @staticmethod
     def create_order(order):
         if order == "Pizza" or order == "pizza":
-            return Pizza()
+            return Pizza("Pizza", 5)
         elif order == "Pasta" or order == "pasta":
-            return Pasta()
+            return Pasta("Pasta", 15)
         elif order == "Salad" or order == "salad":
-            return Salad()
+            return Salad("Salad", 10)
