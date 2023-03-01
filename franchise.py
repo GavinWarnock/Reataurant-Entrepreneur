@@ -3,4 +3,5 @@ class Franchise:
         self.location_number = location_number
     
     def place_order():
-        pass
+        user_input = input ("What would you like to order")
+        
