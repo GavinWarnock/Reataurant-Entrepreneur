@@ -1,2 +1,2 @@
-# Reataurant-Entrepreneur
+# Restaurant-Entrepreneur
 Project # 4
