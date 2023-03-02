@@ -1,0 +1,5 @@
+1: Salad for store 1 for a daily total of $10
+2: Salad for store 2 for a daily total of $20
+1: Pasta for store 1 for a daily total of $15
+2: Pizza for store 2 for a daily total of $20
+3: Salad for store 1 for a daily total of $30

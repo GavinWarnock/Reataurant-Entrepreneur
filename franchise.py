@@ -5,8 +5,8 @@ class Franchise:
         self.location_number = location_number
     
 
-    def place_order():
+    def place_order(self):
         chosen_dish = Orderfactory.create_order(input("What would you like to order? <Pizza, Pasta, or Salad?> "))
-        logger.log_transaction(order, location_number)
+        order = chosen_dish
+        logger.log_transaction(order, self.location_number)
             
-Franchise.place_order()
