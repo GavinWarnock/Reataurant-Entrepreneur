@@ -11,3 +11,5 @@ class Orderfactory:
             return Pasta("Pasta", 15)
         elif order == "Salad" or order == "salad":
             return Salad("Salad", 10)
+        else:
+            print("Please select a valid input.")
