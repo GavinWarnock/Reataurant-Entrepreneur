@@ -1,5 +1,9 @@
-1: Salad for store 1 for a daily total of $10
-2: Salad for store 2 for a daily total of $20
-1: Pasta for store 1 for a daily total of $15
-2: Pizza for store 2 for a daily total of $20
-3: Salad for store 1 for a daily total of $30
+Transaction 1: Pizza for store 1 for $5 for a daily total of $5
+Transaction 2: Pizza for store 2 for $5 for a daily total of $10
+Transaction 3: Salad for store 1 for $10 for a daily total of $20
+Transaction 1: Salad for store 3 for $10 for a daily total of $10
+Transaction 2: Pizza for store 1 for $5 for a daily total of $15
+Transaction 3: Pasta for store 2 for $15 for a daily total of $30
+Transaction 4: Salad for store 1 for $10 for a daily total of $40
+Transaction 5: Pasta for store 3 for $15 for a daily total of $55
+Transaction 6: Pizza for store 2 for $5 for a daily total of $60
